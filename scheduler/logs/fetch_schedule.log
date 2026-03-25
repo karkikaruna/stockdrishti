@@ -1,0 +1,7 @@
+[2026-03-26 00:35:50]  Created CSV → /home/krispi/Downloads/ETLPipeline/stockDrishti/data/nepse_data/live_feed.csv
+[2026-03-26 00:35:50]  ============================================================
+[2026-03-26 00:35:50]  fetch_schedule started  |  watchlist: NABIL, ADBL, NTC, SCB, NICA
+[2026-03-26 00:35:50]  CSV  → /home/krispi/Downloads/ETLPipeline/stockDrishti/data/nepse_data/live_feed.csv
+[2026-03-26 00:35:50]  Log  → /home/krispi/Downloads/ETLPipeline/stockDrishti/scheduler/logs/fetch_schedule.log
+[2026-03-26 00:35:50]  ============================================================
+[2026-03-26 00:35:50]  Market not open yet. Waiting 624m 9s until 11:00 AM NPT …

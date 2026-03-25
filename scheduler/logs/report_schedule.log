@@ -1,0 +1,5 @@
+[2026-03-26 00:36:11]  ============================================================
+[2026-03-26 00:36:11]  report_schedule started
+[2026-03-26 00:36:11]  PDF generator → /home/krispi/Downloads/ETLPipeline/stockDrishti/report/pdf_generator.py
+[2026-03-26 00:36:11]  ============================================================
+[2026-03-26 00:36:11]  Market closes at 15:00 NPT. Will generate report at 15:05 NPT (in 868m 48s) …

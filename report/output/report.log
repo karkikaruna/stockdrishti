@@ -1,0 +1,7 @@
+[2026-03-26 00:34:07]  ============================================================
+[2026-03-26 00:34:07]  pdf_generator started
+[2026-03-26 00:34:07]  CSV   → /home/krispi/Downloads/ETLPipeline/stockDrishti/data/nepse_data/live_feed.csv
+[2026-03-26 00:34:07]  Output→ /home/krispi/Downloads/ETLPipeline/stockDrishti/report/output
+[2026-03-26 00:34:07]  ============================================================
+[2026-03-26 00:34:07]  CSV not found: /home/krispi/Downloads/ETLPipeline/stockDrishti/data/nepse_data/live_feed.csv
+[2026-03-26 00:34:07]  Nothing to report today. Exiting.
